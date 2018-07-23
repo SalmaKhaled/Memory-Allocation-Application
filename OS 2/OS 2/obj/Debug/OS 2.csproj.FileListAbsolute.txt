@@ -1,0 +1,9 @@
+c:\users\salma\documents\visual studio 2012\Projects\OS 2\OS 2\bin\Debug\OS 2.exe.config
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\bin\Debug\OS 2.exe
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\bin\Debug\OS 2.pdb
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\obj\Debug\OS 2.csprojResolveAssemblyReference.cache
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\obj\Debug\OS_2.Form1.resources
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\obj\Debug\OS_2.Properties.Resources.resources
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\obj\Debug\OS 2.csproj.GenerateResource.Cache
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\obj\Debug\OS 2.exe
+C:\Users\Salma\documents\visual studio 2012\Projects\OS 2\OS 2\obj\Debug\OS 2.pdb
